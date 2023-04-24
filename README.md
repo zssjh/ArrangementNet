@@ -55,6 +55,8 @@ python evaluation/evaluations.py --predict_result eval/structured3d --dataset st
 For example, you will get evaluation result of cyberverse dataset like this
 
 >avg Room precision and recall 0.8804061910311912 0.8134793800970271
+>
 >avg Corner precision and recall 0.8220827182273324 0.8274320067970539
+>
 >avg Angle precision and recall 0.8004808248122176 0.8051524746935288
 
