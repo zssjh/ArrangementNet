@@ -1,0 +1,4 @@
+data/cyberverse/evaluation_groundtruth/dongguan_SongShanHu_L6_layer-01.npy filter=lfs diff=lfs merge=lfs -text
+data/cyberverse/evaluation_groundtruth/dongguan_SongShanHu_D6_F1_layer-00.npy filter=lfs diff=lfs merge=lfs -text
+data/cyberverse/evaluation_groundtruth/dongguan_SongShanHu_L6_layer-02.npy filter=lfs diff=lfs merge=lfs -text
+data/cyberverse/evaluation_groundtruth/dongguan_SongShanHu_G1_layer-01.npy filter=lfs diff=lfs merge=lfs -text
