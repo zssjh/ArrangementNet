@@ -1,7 +1,5 @@
 # ArrangementNet
-**Official implementation of the paper ArrangementNet: Learning Scene Arrangements for Vectorized Indoor Scene Modeling.(SIGGRAPH 2023)**
-
-Code comming soon...
+## Official implementation of the paper ArrangementNet: Learning Scene Arrangements for Vectorized Indoor Scene Modeling. (SIGGRAPH 2023)
 
 We provide three datasets at `data/`, which are consistent with the paper. **cyberverse** includes 54 large-scale scenes, **floorsp** is obtained from https://github.com/woodfrog/floor-sp, **structured3d** is obtained from https://github.com/bertjiazheng/Structured3D. We have already generated the arrangement graph based on three datasets and saved at `data/*/arrangement_graph`, which can be directly used as input to the network. We provide the evaluation groundtruth at `data/*/evaluation_groundtruth`.
 
